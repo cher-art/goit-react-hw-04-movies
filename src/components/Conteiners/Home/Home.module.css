@@ -1,0 +1,16 @@
+.homeList{
+  display:flex; 
+  flex-wrap: wrap;
+}
+
+.homeItem{
+  margin: 15px;
+}
+
+.homeItemName{
+  width: 250px;
+}
+
+.homeTitle{
+  text-align: center;
+}
